@@ -38,13 +38,12 @@ The dataset contains **1,000,000 student records** with the following features:
 ```
 project1/
 │
+├── README.md 
 ├── Student_Performance_Analysis.ipynb
-├── student_performance.csv
-└── README.md
+└── student_performance.csv
 ```
 
-## Key Learning Outcomes
-
+## Key Learning Outcomes  
 * Reading and exploring datasets with Pandas
 * Working with large datasets efficiently
 * Filtering and sorting data
